@@ -8,4 +8,5 @@ ____
 * Chapter 2: Profiles and the Profile Space
 * Chapter 3: Masses and Centroids
 * Chapter 4: Chi-square Distance
-* CHapter 5: Plotting Chi-square Distance
+* Chapter 5: Plotting Chi-square Distance
+* Chapter 6: Reduction of Dimensionality
